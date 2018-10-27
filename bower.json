@@ -1,0 +1,21 @@
+{
+  "name": "dbproject",
+  "description": "a Sails application",
+  "main": "app.js",
+  "authors": [
+    "acerkinght"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-less": "^3.3.4"
+  }
+}
