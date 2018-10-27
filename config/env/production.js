@@ -254,7 +254,7 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     onlyAllowOrigins: [
-      'https://dbcourseproject.herokuapp.com/',
+      'https://dbcourseproject.herokuapp.com',
     ],
 
 
